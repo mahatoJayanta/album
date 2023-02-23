@@ -1,3 +1,6 @@
+<h2>HOSTING LINK :-</h2>
+<h3>https://react-album-4joy.netlify.app/</h3>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
